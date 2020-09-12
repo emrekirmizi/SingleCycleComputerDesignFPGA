@@ -1,4 +1,4 @@
-# SingleCycleComputerDesignFPGA
+# SingleCycleProcessorDesignFPGA
 
-Bir Single-Cycle bilgisayar tasarımı gerçekleştirilmiştir. 
-Quartus platformunda, Altera Cyclone-III geliştirme kartı kullanılarak gerçekleştirilmiştir.
+A Single-Cycle Processor design is performed with Altera Cyclone-III FPGA development kit.
+
